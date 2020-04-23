@@ -7,19 +7,19 @@ SOURCE      .
   ORGANISM  .
             .
 FEATURES             Location/Qualifiers
-     primer_bind     6615..6631
+     primer_bind     6615..6632
                      /label="f330"
                      /ApEinfo_fwdcolor="#baffa3"
                      /ApEinfo_revcolor="#ffbaba"
-     primer_bind     complement(6926..6944)
+     primer_bind     complement(6925..6944)
                      /label="r330"
                      /ApEinfo_fwdcolor="#baffa3"
                      /ApEinfo_revcolor="#ffbaba"
-     primer_bind     6615..6631
+     primer_bind     6615..6632
                      /label="f330"
                      /ApEinfo_fwdcolor="#baffa3"
                      /ApEinfo_revcolor="#ffbaba"
-     primer_bind     complement(6926..6944)
+     primer_bind     complement(6925..6944)
                      /label="r330"
                      /ApEinfo_fwdcolor="#baffa3"
                      /ApEinfo_revcolor="#ffbaba"
