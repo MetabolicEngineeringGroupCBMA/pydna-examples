@@ -7,12 +7,12 @@ SOURCE      .
   ORGANISM  .
             .
 FEATURES             Location/Qualifiers
-     regulatory      6..370
+     regulatory      2..366
                      /regulatory_class="terminator"
                      /note="from Saccharomyces cerevisiae PGK1"
-     gene            428..1618
+     gene            424..1614
                      /gene="tet"
-     CDS             428..1618
+     CDS             424..1614
                      /gene="tet"
                      /note="pBR322 marker"
                      /codon_start=1
@@ -26,9 +26,9 @@ FEATURES             Location/Qualifiers
                      QLVGQVPAALWVIFGEDRFRWSATMIGLSLAVFGILHALAQAFVTGPATKRFGEKQAII
                      AGMAADALGYVLLAFATRGWMAFPIMILLASGGIGMPALQAMLSRQVDDDHQGQLQGSL
                      AALTSLTSITGPLIVTAIYAASASTWNGLAWIVGAALYLVCLPALRRGAWSRATST"
-     gene            complement(3637..4497)
+     gene            complement(3633..4493)
                      /gene="bla"
-     CDS             complement(3637..4497)
+     CDS             complement(3633..4493)
                      /gene="bla"
                      /note="ampicillin resistance protein"
                      /codon_start=1
@@ -41,11 +41,11 @@ FEATURES             Location/Qualifiers
                      EPELNEAIPNDERDTTMPAAMATTLRKLLTGELLTLASRQQLIDWMEADKVAGPLLRSA
                      LPAGWFIADKSGAGERGSRGIIAALGPDGKPSRIVVIYTTGSQATMDERNRQIAEIGAS
                      LIKHW"
-     rep_origin      5232..6392
+     rep_origin      5228..6388
                      /note="2 micron origin"
-     gene            7209..8012
+     gene            7205..8008
                      /gene="URA3"
-     CDS             7209..8012
+     CDS             7205..8008
                      /gene="URA3"
                      /codon_start=1
                      /transl_table=11
@@ -56,14 +56,14 @@ FEATURES             Location/Qualifiers
                      YSAGVYRIAEWADITNAHGVVGPGIVSGLKQAAEEVTKEPRGLLMLAELSCKGSLSTGE
                      YTKGTVDIAKSDKDFVIGFIAQRDMGGRDEGYDWLIMTPGVGLDDKGDALGQQYRTVDD
                      VVSTGSDIIIVGRGLFAKGRDAKVEGERYRKAGWEAYLRRCGQQN"
-     regulatory      8154..9636
+     regulatory      8150..9632
                      /regulatory_class="promoter"
                      /note="from Saccharomyces cerevisiae PGK1"
-     primer_bind     9655..9669
+     primer_bind     9651..9665
                      /label="primer1"
                      /ApEinfo_fwdcolor="#baffa3"
                      /ApEinfo_revcolor="#ffbaba"
-     primer_bind     complement(11431..11451)
+     primer_bind     complement(11427..11447)
                      /label="primer3"
                      /ApEinfo_fwdcolor="#baffa3"
                      /ApEinfo_revcolor="#ffbaba"

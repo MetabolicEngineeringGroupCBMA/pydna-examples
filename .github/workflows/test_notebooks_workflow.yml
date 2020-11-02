@@ -1,0 +1,35 @@
+name: test jupiter notebooks
+on:
+  push:
+    branches:
+      - '**'
+    tags-ignore:
+      - '*.*'
+  schedule:
+    - cron: '0 6 * * 0'
+jobs:
+  build:
+    name: Test
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2.3.2
+
+      - name: Cache conda
+        uses: actions/cache@v2.1.1
+        with:
+          path: ~/conda_pkgs_dir
+          key: conda-${{ hashFiles('environment-ci.yml') }}
+
+      - name: Setup Miniconda
+        uses: goanpeca/setup-miniconda@v1.7.0
+        with:
+          auto-update-conda: true
+          auto-activate-base: false
+          activate-environment: environment
+          environment-file: environment.yml
+          use-only-tar-bz2: true
+
+      - name: test notebooks
+        shell: bash -l {0}
+        run: bash test_all_notebooks.sh

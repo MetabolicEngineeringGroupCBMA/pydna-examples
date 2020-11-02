@@ -1,7 +1,7 @@
-LOCUS       name_rc                 7363 bp    DNA     circular UNK 01-JAN-1980
-DEFINITION  <unknown description>_rc.
-ACCESSION   <unknown id>_rc
-VERSION     <unknown id>_rc
+LOCUS       p425CYC                 7363 bp    DNA     circular UNK 01-JAN-1980
+DEFINITION  cSEGUID_FdAwUGTaqyNlbYaB8IQX3sKNtZM.
+ACCESSION   p425CYC
+VERSION     p425CYC
 KEYWORDS    .
 SOURCE      .
   ORGANISM  .

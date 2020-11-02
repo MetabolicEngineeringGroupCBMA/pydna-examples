@@ -30,6 +30,18 @@ FEATURES             Location/Qualifiers
      CDS             558..2240
                      /gene="GUP1"
                      /locus_tag="YGL084C"
+                     /experiment="EXISTENCE:direct assay:GO:0005783 endoplasmic
+                     reticulum [PMID:15813700|PMID:26928762]"
+                     /experiment="EXISTENCE:direct assay:GO:0005886 plasma
+                     membrane [PMID:15813700]"
+                     /experiment="EXISTENCE:mutant phenotype:GO:0006506 GPI
+                     anchor biosynthetic process [PMID:16597698]"
+                     /experiment="EXISTENCE:mutant phenotype:GO:0008374
+                     O-acyltransferase activity [PMID:16597698|PMID:18036137]"
+                     /experiment="EXISTENCE:mutant phenotype:GO:0015793 glycerol
+                     transport [PMID:10931309]"
+                     /experiment="EXISTENCE:mutant phenotype:GO:0019563 glycerol
+                     catabolic process [PMID:10747858]"
                      /note="Plasma membrane protein involved in remodeling GPI
                      anchors; member of the MBOAT family of putative
                      membrane-bound O-acyltransferases; role in misfolded
