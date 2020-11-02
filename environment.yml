@@ -1,10 +1,10 @@
-name: testenvironment
+name: environment
 channels:
-- defaults
 - conda-forge
+- defaults
 - BjornFJohansson
 dependencies:
-- python=3.7
+- python=3.8
 - pydna
 - lxml
 - pytest
