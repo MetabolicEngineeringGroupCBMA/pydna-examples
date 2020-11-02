@@ -26,7 +26,7 @@ cd notebooks
 # command to run all notebooks
 #jupyter nbconvert --ExecutePreprocessor.kernel_name=python3 --execute --inplace --allow-errors **/*.ipynb
 
-#command to convert all notebooks
+#command to convert all notebooks to html
 #jupyter nbconvert **/*.ipynb
 
 #command to test all notebooks
