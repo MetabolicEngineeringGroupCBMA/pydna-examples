@@ -30,6 +30,10 @@ jobs:
           environment-file: environment.yml
           use-only-tar-bz2: true
 
+      - name: list environment
+        shell: bash -l {0}
+        run: conda list
+
       - name: test notebooks
         shell: bash -l {0}
         run: bash test_all_notebooks.sh

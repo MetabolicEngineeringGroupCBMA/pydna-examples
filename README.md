@@ -40,7 +40,7 @@ and run the notebooks locally (the notebooks will also run faster).
 
 ## Automatic testing
 
-[![Build Status](https://travis-ci.org/BjornFJohansson/pydna-examples.svg?branch=master)](https://travis-ci.org/BjornFJohansson/pydna-examples)
+[![test jupiter notebooks](https://github.com/MetabolicEngineeringGroupCBMA/pydna-examples/actions/workflows/test_notebooks_workflow.yml/badge.svg)](https://github.com/MetabolicEngineeringGroupCBMA/pydna-examples/actions/workflows/test_notebooks_workflow.yml)
 
 The Jupyter notebooks in this repository are tested using a continuous integration service.
 A fresh install of all depending software is performed once per month or whenever the files in this repository change.
