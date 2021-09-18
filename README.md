@@ -1,11 +1,11 @@
 # pydna-examples
-This repository contains Jupyter notebooks demonstrate how [pydna](https://github.com/BjornFJohansson/pydna/blob/py3dev/README.md) 
+This repository contains Jupyter notebooks demonstrate how [pydna](https://github.com/BjornFJohansson/pydna/blob/py3dev/README.md)
 can be used to plan, document and simulate virtually any cloning experiment.
 
 [![saat_cloning_animation](notebooks/strawberry_aat/saat_cloning_animation.gif)](notebooks/strawberry_aat/strawberry.ipynb)
 
 [![Binder](https://beta.mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/BjornFJohansson/pydna-examples/master)
- 
+
 The links below open a static version of each notebook as a web page directly on Github.
 
 * Construction of the [YEp24PGK_XK](notebooks/simple_examples/YEP24_PGK_XK.ipynb) vector using restriction and ligation.
@@ -18,11 +18,11 @@ The links below open a static version of each notebook as a web page directly on
 
 * Expression of the [Strawberry aat gene](notebooks/strawberry_aat/strawberry.ipynb) in _Saccharomyces cerevisiae_ using the Yeast Pathway Kit
 
-* [Gibson](notebooks/gibson/gibson.ipynb) assembly example 
+* [Gibson](notebooks/gibson/gibson.ipynb) assembly example
 
 * Golden gate cloning [example](notebooks/golden_gate/golden_gate1.ipynb)
 
-Static versions of the notebooks can also be displayed as 
+Static versions of the notebooks can also be displayed as
 web pages through [nbviewer](http://nbviewer.jupyter.org/github/BjornFJohansson/pydna-examples/blob/master/index.ipynb).
 
 ## Misc examples
@@ -35,17 +35,17 @@ Click on the red and black "launch binder" image above to run the notebooks on t
 This way notebooks can be executed dynamically online without need to install anything on the users computer.
 
 N.B. Mybinder runs on infrastructure paid for by the [Freeman lab](https://www.janelia.org/our-research/former-labs/freeman-lab).
-Please do not abuse the service. If you want to do extensive testing of these notebooks, please download this repository 
+Please do not abuse the service. If you want to do extensive testing of these notebooks, please download this repository
 and run the notebooks locally (the notebooks will also run faster).
 
 ## Automatic testing
 
 [![Build Status](https://travis-ci.org/BjornFJohansson/pydna-examples.svg?branch=master)](https://travis-ci.org/BjornFJohansson/pydna-examples)
 
-The Jupyter notebooks in this repository are tested using a continuous integration service. 
+The Jupyter notebooks in this repository are tested using a continuous integration service.
 A fresh install of all depending software is performed once per month or whenever the files in this repository change.
-The tests compare the old, saved output from each code cell with a newly calculated output. 
-If the content do not match for any cell, the badge above turns red. 
+The tests compare the old, saved output from each code cell with a newly calculated output.
+If the content do not match for any cell, the badge above turns red.
 The bagde is also a link to the server where the tests are performed.
 
 The contents of this repository is released under the MIT [Licence](Licence.md)
