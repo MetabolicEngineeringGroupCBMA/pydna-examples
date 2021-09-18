@@ -4,7 +4,7 @@ can be used to plan, document and simulate virtually any cloning experiment.
 
 [![saat_cloning_animation](notebooks/strawberry_aat/saat_cloning_animation.gif)](notebooks/strawberry_aat/strawberry.ipynb)
 
-[![Binder](https://beta.mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/BjornFJohansson/pydna-examples/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MetabolicEngineeringGroupCBMA/pydna-examples/HEAD?filepath=notebooks%2Findex.ipynb)
 
 The links below open a static version of each notebook as a web page directly on Github.
 
@@ -34,9 +34,8 @@ web pages through [nbviewer](http://nbviewer.jupyter.org/github/BjornFJohansson/
 Click on the red and black "launch binder" image above to run the notebooks on the cloud service [mybinder](http://mybinder.org/).
 This way notebooks can be executed dynamically online without need to install anything on the users computer.
 
-N.B. Mybinder runs on infrastructure paid for by the [Freeman lab](https://www.janelia.org/our-research/former-labs/freeman-lab).
-Please do not abuse the service. If you want to do extensive testing of these notebooks, please download this repository
-and run the notebooks locally (the notebooks will also run faster).
+N.B. Mybinder runs on infrastructure provided for free. Please do not abuse the service. If you want to do extensive testing of these
+notebooks, please download this repository and run the notebooks locally (the notebooks will also run faster).
 
 ## Automatic testing
 
