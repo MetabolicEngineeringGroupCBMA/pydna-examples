@@ -1,7 +1,7 @@
 LOCUS       name                   11452 bp    DNA     circular UNK 01-JAN-1980
 DEFINITION  description.
-ACCESSION   <unknown id>
-VERSION     <unknown id>
+ACCESSION   id
+VERSION     id
 KEYWORDS    .
 SOURCE      .
   ORGANISM  .

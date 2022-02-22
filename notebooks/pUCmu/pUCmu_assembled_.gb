@@ -7,28 +7,28 @@ SOURCE      .
   ORGANISM  .
             .
 FEATURES             Location/Qualifiers
-     primer_bind     complement(join(1660..1673,1..4))
-                     /label="pUC18-dLacZ-R"
-                     /ApEinfo_fwdcolor="#baffa3"
-                     /ApEinfo_revcolor="#ffbaba"
-     primer_bind     40..64
+     primer_bind     36..60
                      /label="PUC18-dLacZ-F"
                      /ApEinfo_fwdcolor="#baffa3"
                      /ApEinfo_revcolor="#ffbaba"
-     primer_bind     complement(58..79)
+     primer_bind     complement(54..75)
                      /label="pUcReFix-R"
                      /ApEinfo_fwdcolor="#baffa3"
                      /ApEinfo_revcolor="#ffbaba"
-     primer_bind     138..155
+     primer_bind     134..151
                      /label="pUcReFix-F"
                      /ApEinfo_fwdcolor="#baffa3"
                      /ApEinfo_revcolor="#ffbaba"
-     primer_bind     complement(729..752)
+     primer_bind     complement(725..748)
                      /label="pUCmu-R"
                      /ApEinfo_fwdcolor="#baffa3"
                      /ApEinfo_revcolor="#ffbaba"
-     primer_bind     754..777
+     primer_bind     750..773
                      /label="pUCmu-F"
+                     /ApEinfo_fwdcolor="#baffa3"
+                     /ApEinfo_revcolor="#ffbaba"
+     primer_bind     complement(1656..1673)
+                     /label="pUC18-dLacZ-R"
                      /ApEinfo_fwdcolor="#baffa3"
                      /ApEinfo_revcolor="#ffbaba"
 ORIGIN
