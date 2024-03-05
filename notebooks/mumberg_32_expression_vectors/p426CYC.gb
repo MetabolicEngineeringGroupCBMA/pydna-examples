@@ -1,11 +1,12 @@
 LOCUS       p426CYC                 6240 bp    DNA     circular UNK 01-JAN-1980
-DEFINITION  cSEGUID_2w4hS65IKgoqzDkJcPj8cMpsowY.
+DEFINITION  .
 ACCESSION   p426CYC
 VERSION     p426CYC
 KEYWORDS    .
 SOURCE      .
   ORGANISM  .
             .
+COMMENT     pydna cdseguid=arc7rNLXTWzDkd760YlWbK5e-TI 2024-03-05T06:28:09
 FEATURES             Location/Qualifiers
 ORIGIN
         1 gacgaaaggg cctcgtgata cgcctatttt tataggttaa tgtcatgata ataatggttt

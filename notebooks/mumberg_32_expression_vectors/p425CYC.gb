@@ -1,11 +1,12 @@
 LOCUS       p425CYC                 7363 bp    DNA     circular UNK 01-JAN-1980
-DEFINITION  cSEGUID_FdAwUGTaqyNlbYaB8IQX3sKNtZM.
+DEFINITION  .
 ACCESSION   p425CYC
 VERSION     p425CYC
 KEYWORDS    .
 SOURCE      .
   ORGANISM  .
             .
+COMMENT     pydna cdseguid=dW8B1qhoYSqe2wv61BelzBRnN3A 2024-03-05T06:28:09
 FEATURES             Location/Qualifiers
 ORIGIN
         1 gacgaaaggg cctcgtgata cgcctatttt tataggttaa tgtcatgata ataatggttt

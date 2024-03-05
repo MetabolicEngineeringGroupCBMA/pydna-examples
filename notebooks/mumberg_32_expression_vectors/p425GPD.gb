@@ -1,11 +1,12 @@
 LOCUS       p425GPD                 7729 bp    DNA     circular UNK 01-JAN-1980
-DEFINITION  cSEGUID_DIu-3B3hRYrDFKInl53Spz7f1uY.
+DEFINITION  .
 ACCESSION   p425GPD
 VERSION     p425GPD
 KEYWORDS    .
 SOURCE      .
   ORGANISM  .
             .
+COMMENT     pydna cdseguid=mBrE9zKQnQ6_O3dQRnJ-LaiYQbs 2024-03-05T06:28:07
 FEATURES             Location/Qualifiers
 ORIGIN
         1 gacgaaaggg cctcgtgata cgcctatttt tataggttaa tgtcatgata ataatggttt

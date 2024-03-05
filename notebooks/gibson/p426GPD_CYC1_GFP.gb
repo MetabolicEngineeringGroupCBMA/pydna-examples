@@ -7,25 +7,32 @@ SOURCE      .
   ORGANISM  .
             .
 FEATURES             Location/Qualifiers
-     primer_bind     6615..6632
+     primer_bind     6572..6589
                      /label="f330"
+                     /PCR_conditions="primer sequence:ATGACTGAATTCAAGGCC"
                      /ApEinfo_fwdcolor="#baffa3"
                      /ApEinfo_revcolor="#ffbaba"
-     primer_bind     complement(6925..6944)
+     primer_bind     complement(6882..6901)
                      /label="r330"
+                     /PCR_conditions="primer sequence:TTACTCACAGGCTTTTTTCA"
                      /ApEinfo_fwdcolor="#baffa3"
                      /ApEinfo_revcolor="#ffbaba"
-     primer_bind     6615..6632
+     primer_bind     6572..6589
                      /label="f330"
+                     /PCR_conditions="primer
+                     sequence:TAGTTTCGACGGATTCTAGAACTAGTGGATCCCCCGCGGCCGCATGACTG
+                     AATTCAAGGCC"
                      /ApEinfo_fwdcolor="#baffa3"
                      /ApEinfo_revcolor="#ffbaba"
-     primer_bind     complement(6925..6944)
+     primer_bind     complement(6882..6901)
                      /label="r330"
+                     /PCR_conditions="primer
+                     sequence:TTCTTCACCTTTAGACATTTACTCACAGGCTTTTTTCA"
                      /ApEinfo_fwdcolor="#baffa3"
                      /ApEinfo_revcolor="#ffbaba"
-     gene            6945..7661
+     gene            6927..7643
                      /gene="EGFP3"
-     CDS             6945..7661
+     CDS             6927..7643
                      /gene="EGFP3"
                      /codon_start=1
                      /transl_table=11
@@ -37,20 +44,27 @@ FEATURES             Location/Qualifiers
                      NYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIMADKQKNGIKV
                      NFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPNEKRDHMVLLE
                      FVTAAGITHGMDELYK"
-     primer_bind     6945..6967
+     primer_bind     6927..6950
                      /label="f717"
+                     /PCR_conditions="primer sequence:ATGTCTAAAGGTGAAGAATTATTC"
                      /ApEinfo_fwdcolor="#baffa3"
                      /ApEinfo_revcolor="#ffbaba"
-     primer_bind     complement(7639..7661)
+     primer_bind     complement(7620..7643)
                      /label="r717"
+                     /PCR_conditions="primer sequence:TTATTTGTACAATTCATCCATACC"
                      /ApEinfo_fwdcolor="#baffa3"
                      /ApEinfo_revcolor="#ffbaba"
-     primer_bind     6945..6967
+     primer_bind     6927..6950
                      /label="f717"
+                     /PCR_conditions="primer
+                     sequence:AAAAAAGCCTGTGAGTAAATGTCTAAAGGTGAAGAATTATTC"
                      /ApEinfo_fwdcolor="#baffa3"
                      /ApEinfo_revcolor="#ffbaba"
-     primer_bind     complement(7639..7661)
+     primer_bind     complement(7620..7643)
                      /label="r717"
+                     /PCR_conditions="primer
+                     sequence:GTATCGATAAGCTTGATATCGAATTCCTGCAGCCCTTATTTGTACAATTC
+                     ATCCATACC"
                      /ApEinfo_fwdcolor="#baffa3"
                      /ApEinfo_revcolor="#ffbaba"
 ORIGIN

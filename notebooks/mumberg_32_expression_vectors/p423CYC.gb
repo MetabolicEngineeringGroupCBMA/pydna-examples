@@ -1,11 +1,12 @@
 LOCUS       p423CYC                 6311 bp    DNA     circular UNK 01-JAN-1980
-DEFINITION  cSEGUID_jRThmfnNTXpBBFQM9X5B8u1P2cE.
+DEFINITION  .
 ACCESSION   p423CYC
 VERSION     p423CYC
 KEYWORDS    .
 SOURCE      .
   ORGANISM  .
             .
+COMMENT     pydna cdseguid=OA-yWGHFzTNGhG14LeoUoWYxVRk 2024-03-05T06:28:09
 FEATURES             Location/Qualifiers
 ORIGIN
         1 gacgaaaggg cctcgtgata cgcctatttt tataggttaa tgtcatgata ataatggttt

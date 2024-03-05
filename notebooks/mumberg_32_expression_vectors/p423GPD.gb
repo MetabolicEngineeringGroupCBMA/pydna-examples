@@ -1,11 +1,12 @@
 LOCUS       p423GPD                 6677 bp    DNA     circular UNK 01-JAN-1980
-DEFINITION  cSEGUID_zYA5roweXHRBfTF81-YsA9StbHA.
+DEFINITION  .
 ACCESSION   p423GPD
 VERSION     p423GPD
 KEYWORDS    .
 SOURCE      .
   ORGANISM  .
             .
+COMMENT     pydna cdseguid=UY0yiOWJVrToHFFEXTJN3qz2MQA 2024-03-05T06:28:07
 FEATURES             Location/Qualifiers
 ORIGIN
         1 gacgaaaggg cctcgtgata cgcctatttt tataggttaa tgtcatgata ataatggttt

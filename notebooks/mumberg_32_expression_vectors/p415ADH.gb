@@ -1,11 +1,12 @@
 LOCUS       p415ADH                 7746 bp    DNA     circular UNK 01-JAN-1980
-DEFINITION  cSEGUID_j0eFXYwrCFM7n-3dYSM-QBrBa6A.
+DEFINITION  .
 ACCESSION   p415ADH
 VERSION     p415ADH
 KEYWORDS    .
 SOURCE      .
   ORGANISM  .
             .
+COMMENT     pydna cdseguid=bsNtX9fZFpbo22iNETWLO5mpb84 2024-03-05T06:28:08
 FEATURES             Location/Qualifiers
 ORIGIN
         1 gacgaaaggg cctcgtgata cgcctatttt tataggttaa tgtcatgata ataatggttt

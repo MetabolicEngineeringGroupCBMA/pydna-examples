@@ -1,11 +1,12 @@
 LOCUS       p426ADH                 7451 bp    DNA     circular UNK 01-JAN-1980
-DEFINITION  cSEGUID_Tcv8XWeJAHMtlhWTg82F7mJcBuw.
+DEFINITION  .
 ACCESSION   p426ADH
 VERSION     p426ADH
 KEYWORDS    .
 SOURCE      .
   ORGANISM  .
             .
+COMMENT     pydna cdseguid=O03j74T5LrWqMhJOouLflPt6M_I 2024-03-05T06:28:08
 FEATURES             Location/Qualifiers
 ORIGIN
         1 gacgaaaggg cctcgtgata cgcctatttt tataggttaa tgtcatgata ataatggttt

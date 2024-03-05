@@ -1,11 +1,12 @@
 LOCUS       p415CYC                 6535 bp    DNA     circular UNK 01-JAN-1980
-DEFINITION  cSEGUID_b5uQ6wtq73UqeEwvueKtF7lpB6c.
+DEFINITION  .
 ACCESSION   p415CYC
 VERSION     p415CYC
 KEYWORDS    .
 SOURCE      .
   ORGANISM  .
             .
+COMMENT     pydna cdseguid=WD-RayNojzotzwtcOBV1wPMvifE 2024-03-05T06:28:09
 FEATURES             Location/Qualifiers
 ORIGIN
         1 gacgaaaggg cctcgtgata cgcctatttt tataggttaa tgtcatgata ataatggttt

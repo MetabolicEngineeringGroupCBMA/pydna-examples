@@ -1,11 +1,12 @@
 LOCUS       p414TEF                 5414 bp    DNA     circular UNK 01-JAN-1980
-DEFINITION  cSEGUID_J8DRpanomMCWgSuDAbP7DEQAfIw.
+DEFINITION  .
 ACCESSION   p414TEF
 VERSION     p414TEF
 KEYWORDS    .
 SOURCE      .
   ORGANISM  .
             .
+COMMENT     pydna cdseguid=iFR5IGV3gEHM_m3_ons4qzPIC7Q 2024-03-05T06:28:08
 FEATURES             Location/Qualifiers
 ORIGIN
         1 gacgaaaggg cctcgtgata cgcctatttt tataggttaa tgtcatgata ataatggttt

@@ -1,11 +1,12 @@
 LOCUS       p424GPD                 6496 bp    DNA     circular UNK 01-JAN-1980
-DEFINITION  cSEGUID_fI6azXKfjdJRiH-vyFg_JcJTGEg.
+DEFINITION  .
 ACCESSION   p424GPD
 VERSION     p424GPD
 KEYWORDS    .
 SOURCE      .
   ORGANISM  .
             .
+COMMENT     pydna cdseguid=if51gT_lrMJoIm_c_GQm_1gxxhc 2024-03-05T06:28:07
 FEATURES             Location/Qualifiers
 ORIGIN
         1 gacgaaaggg cctcgtgata cgcctatttt tataggttaa tgtcatgata ataatggttt

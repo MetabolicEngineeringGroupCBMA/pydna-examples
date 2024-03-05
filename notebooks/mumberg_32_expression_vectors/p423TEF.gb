@@ -1,11 +1,12 @@
 LOCUS       p423TEF                 6423 bp    DNA     circular UNK 01-JAN-1980
-DEFINITION  cSEGUID_H7Bl_TKO-6JxKIKW_3niV6REKI4.
+DEFINITION  .
 ACCESSION   p423TEF
 VERSION     p423TEF
 KEYWORDS    .
 SOURCE      .
   ORGANISM  .
             .
+COMMENT     pydna cdseguid=54D2NIJ2JOQPfVR0Z3weyMLQ9qA 2024-03-05T06:28:08
 FEATURES             Location/Qualifiers
 ORIGIN
         1 gacgaaaggg cctcgtgata cgcctatttt tataggttaa tgtcatgata ataatggttt

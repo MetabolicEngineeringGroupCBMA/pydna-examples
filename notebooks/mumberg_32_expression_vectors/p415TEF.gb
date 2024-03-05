@@ -1,11 +1,12 @@
 LOCUS       p415TEF                 6647 bp    DNA     circular UNK 01-JAN-1980
-DEFINITION  cSEGUID_mqefvS9CdFB360qh6Ogq44JWy-8.
+DEFINITION  .
 ACCESSION   p415TEF
 VERSION     p415TEF
 KEYWORDS    .
 SOURCE      .
   ORGANISM  .
             .
+COMMENT     pydna cdseguid=RK0_aXpaiuCmZi249gVplZBEigg 2024-03-05T06:28:08
 FEATURES             Location/Qualifiers
 ORIGIN
         1 gacgaaaggg cctcgtgata cgcctatttt tataggttaa tgtcatgata ataatggttt

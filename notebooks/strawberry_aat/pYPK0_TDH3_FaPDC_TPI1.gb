@@ -9,9 +9,11 @@ SOURCE      .
 FEATURES             Location/Qualifiers
      primer_bind     363..391
                      /label="577_crp585-557"
+                     /PCR_conditions="primer
+                     sequence:gttctgatcctcgagcatcttaagaattc"
                      /ApEinfo_fwdcolor="#baffa3"
                      /ApEinfo_revcolor="#ffbaba"
-     primer_bind     complement(458..486)
+     primer_bind     complement(474..502)
                      /note="865_pYPKpwR"
                      /ApEinfo_fwdcolor="green"
                      /ApEinfo_revcolor="red"
@@ -35,6 +37,7 @@ FEATURES             Location/Qualifiers
                      /label="626_ScTEF1tpr_PacI"
      primer_bind     1124..1148
                      /label="468_pCAPs_release_fw"
+                     /PCR_conditions="primer sequence:gtcgaggaacgccaggttgcccact"
                      /ApEinfo_fwdcolor="#baffa3"
                      /ApEinfo_revcolor="#ffbaba"
      primer_bind     complement(1151..1171)
@@ -45,58 +48,20 @@ FEATURES             Location/Qualifiers
                      /label="567_pCAPsAjiIF"
      primer_bind     complement(1151..1173)
                      /label="567_pCAPsAjiIF"
-                     /ApEinfo_fwdcolor="#baffa3"
-                     /ApEinfo_revcolor="#ffbaba"
-     protein_bind    join(1171..1173,2994..2996)
-                     /label="AjiI"
-                     /ApEinfo_fwdcolor="#002cff"
-                     /ApEinfo_revcolor="green"
-                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
-                     width 5 offset 0"
-     source          1176..2993
-                     /organism="Fragaria x ananassa"
-                     /mol_type="mRNA"
-                     /db_xref="taxon:3747"
-     gene            1176..2993
-                     /gene="PDC"
-     CDS             1176..2993
-                     /gene="PDC"
-                     /codon_start=1
-                     /product="pyruvate decarboxylase"
-                     /protein_id="AAG13131.1"
-                     /translation="MDTKIGSIDVCKTENHDVGCLPNSATSTVQNSVPSTSLSSADATL
-                     GRHLARRLVQIGVTDVFTVPGDFNLTLLDHLIAEPGLTNIGCCNELNAGYAADGYARSR
-                     GVGACVVTFTVGGLSVLNAIAGAYSENLPVICIVGGPNSNDYGTNRILHHTIGLPDFSQ
-                     ELRCFQTVTCFQAVVNNLEDAHEMIDTAISTALKESKPVYISIGCNLAGIPHPTFSREP
-                     VPFSLSPKLSNKWGLEAAVEAAAEFLNKAVKPVMVGGPKLRSAHAGDAFVELADASGFA
-                     LAVMPSAKGQVPEHHPHFIGTYWGAVSTAFCAEIVESADAYLFAGPIFNDYSSVGYSLL
-                     LKKEKAIIVQPDRVTIGNGPTFGCVLMKDFLLGLAKKLKHNNTAHENYRRIFVPDGHPL
-                     KAAPKEPLRVNVLFKHIQNMLSAETAVIAETGDSWFNCQKLKLPPGCGYEFQMQYGSIG
-                     WSVGATLGYAQAVPEKRVISFIGDGSFQVTAQDVSTMIRNGQRTIIFLINNGGYTIEVE
-                     IHDGPYNVIKNWNYTGLVDAIHNGEGKCWTTKVRCEEELIEAIETANGPKKDSFCFIEV
-                     IVHKDDTSKELLEWGSRVSAANSRPPNPQ"
-     primer_bind     1176..1192
-                     /label="f1818"
-                     /ApEinfo_fwdcolor="#baffa3"
-                     /ApEinfo_revcolor="#ffbaba"
-     primer_bind     complement(2976..2993)
-                     /label="r1818"
+                     /PCR_conditions="primer sequence:GTcggctgcaggtcactagtgag"
                      /ApEinfo_fwdcolor="#baffa3"
                      /ApEinfo_revcolor="#ffbaba"
      misc            2994..3015
                      /label="568_pCAPsAjiIR"
      primer_bind     2994..3015
                      /label="568_pCAPsAjiIR"
+                     /PCR_conditions="primer sequence:GTGCcatctgtgcagacaaacg"
                      /ApEinfo_fwdcolor="#baffa3"
                      /ApEinfo_revcolor="#ffbaba"
      primer_bind     2996..3015
                      /note="568_pCAPsAjiIR"
                      /ApEinfo_revcolor="red"
                      /ApEinfo_fwdcolor="green"
-     primer_bind     complement(3000..3024)
-                     /label="467_pCAPs_release_re"
-                     /ApEinfo_fwdcolor="#baffa3"
-                     /ApEinfo_revcolor="#ffbaba"
      misc            3025..3056
                      /label="419_ScTPI1tpf"
      source          3031..3613
@@ -115,29 +80,31 @@ FEATURES             Location/Qualifiers
                      /ApEinfo_fwdcolor="green"
      misc            complement(3586..3620)
                      /label="621_ScTPI1tpr_PacI"
-     primer_bind     3674..3703
+     primer_bind     3690..3719
                      /note="866_pYPKpwF"
                      /ApEinfo_fwdcolor="green"
                      /ApEinfo_revcolor="red"
      primer_bind     complement(3887..3915)
                      /label="578_crp42-70"
+                     /PCR_conditions="primer
+                     sequence:gttcttgtctcattgccacattcataagt"
                      /ApEinfo_fwdcolor="#baffa3"
                      /ApEinfo_revcolor="#ffbaba"
-     overlap         4288..4987
+     overlap         4304..5003
                      /note="olp_gf0xzr_JzrjxWRje_FrAQpd6LeA"
                      /ApEinfo_fwdcolor="#FAEAED"
                      /chksum="gf0xzr_JzrjxWRje_FrAQpd6LeA"
                      /ApEinfo_revcolor="#C3F9BF"
-     rep_origin      complement(4304..4985)
+     rep_origin      complement(4320..5001)
                      /label="ColE1 origin"
-     misc            complement(5066..5869)
+     misc            complement(5082..5885)
                      /label="URA3"
-     overlap         7819..8022
+     overlap         7835..8038
                      /note="olp_BZGjlrLjm10Ew_KU59TByOu-CwQ"
                      /ApEinfo_fwdcolor="#FEB9AF"
                      /chksum="BZGjlrLjm10Ew_KU59TByOu-CwQ"
                      /ApEinfo_revcolor="#DEDFC1"
-     overlap         8350..8594
+     overlap         8366..8610
                      /note="olp_mGvCDRsViMEGD5V6qEoVS_rrgoQ"
                      /ApEinfo_fwdcolor="#B0C6C6"
                      /chksum="mGvCDRsViMEGD5V6qEoVS_rrgoQ"

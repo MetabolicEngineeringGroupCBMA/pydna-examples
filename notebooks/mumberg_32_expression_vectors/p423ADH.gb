@@ -1,11 +1,12 @@
 LOCUS       p423ADH                 7522 bp    DNA     circular UNK 01-JAN-1980
-DEFINITION  cSEGUID_DfrX1rosYoX9R1Qwk-NWL_MjPOo.
+DEFINITION  .
 ACCESSION   p423ADH
 VERSION     p423ADH
 KEYWORDS    .
 SOURCE      .
   ORGANISM  .
             .
+COMMENT     pydna cdseguid=4CB7jD-78Sf6HEY2HZLOugg4EWs 2024-03-05T06:28:08
 FEATURES             Location/Qualifiers
 ORIGIN
         1 gacgaaaggg cctcgtgata cgcctatttt tataggttaa tgtcatgata ataatggttt

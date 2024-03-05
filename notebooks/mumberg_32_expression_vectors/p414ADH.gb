@@ -1,11 +1,12 @@
 LOCUS       p414ADH                 6513 bp    DNA     circular UNK 01-JAN-1980
-DEFINITION  cSEGUID_7hQsgg9Euy6RQf4mGyWTTQwvEls.
+DEFINITION  .
 ACCESSION   p414ADH
 VERSION     p414ADH
 KEYWORDS    .
 SOURCE      .
   ORGANISM  .
             .
+COMMENT     pydna cdseguid=7YuHYpSoiRBWpUC4ChFPQv3v7Ik 2024-03-05T06:28:08
 FEATURES             Location/Qualifiers
 ORIGIN
         1 gacgaaaggg cctcgtgata cgcctatttt tataggttaa tgtcatgata ataatggttt

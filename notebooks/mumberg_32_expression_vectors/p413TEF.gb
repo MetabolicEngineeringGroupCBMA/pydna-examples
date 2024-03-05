@@ -1,11 +1,12 @@
 LOCUS       p413TEF                 5596 bp    DNA     circular UNK 01-JAN-1980
-DEFINITION  cSEGUID_GhVtYmA29Rdt9GJ3Miu9V4v1wWQ.
+DEFINITION  .
 ACCESSION   p413TEF
 VERSION     p413TEF
 KEYWORDS    .
 SOURCE      .
   ORGANISM  .
             .
+COMMENT     pydna cdseguid=vckLCTxemOcocai98PaeeHuD71I 2024-03-05T06:28:07
 FEATURES             Location/Qualifiers
 ORIGIN
         1 gacgaaaggg cctcgtgata cgcctatttt tataggttaa tgtcatgata ataatggttt

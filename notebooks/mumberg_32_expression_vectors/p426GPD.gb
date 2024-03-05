@@ -1,11 +1,12 @@
 LOCUS       p426GPD                 6606 bp    DNA     circular UNK 01-JAN-1980
-DEFINITION  cSEGUID_pRet5i2USwKyDQ--njfmPTCUqv8.
+DEFINITION  .
 ACCESSION   p426GPD
 VERSION     p426GPD
 KEYWORDS    .
 SOURCE      .
   ORGANISM  .
             .
+COMMENT     pydna cdseguid=sOoxXJzGMT4d_tepbuZE2yJJxGg 2024-03-05T06:28:07
 FEATURES             Location/Qualifiers
 ORIGIN
         1 gacgaaaggg cctcgtgata cgcctatttt tataggttaa tgtcatgata ataatggttt
